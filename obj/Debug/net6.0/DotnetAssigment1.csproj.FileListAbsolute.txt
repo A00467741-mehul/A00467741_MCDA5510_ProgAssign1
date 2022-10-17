@@ -1,0 +1,15 @@
+F:\Projects\DotnetAssigment1\bin\Debug\net6.0\DotnetAssigment1.exe
+F:\Projects\DotnetAssigment1\bin\Debug\net6.0\DotnetAssigment1.deps.json
+F:\Projects\DotnetAssigment1\bin\Debug\net6.0\DotnetAssigment1.runtimeconfig.json
+F:\Projects\DotnetAssigment1\bin\Debug\net6.0\DotnetAssigment1.dll
+F:\Projects\DotnetAssigment1\bin\Debug\net6.0\DotnetAssigment1.pdb
+F:\Projects\DotnetAssigment1\obj\Debug\net6.0\DotnetAssigment1.csproj.AssemblyReference.cache
+F:\Projects\DotnetAssigment1\obj\Debug\net6.0\DotnetAssigment1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\DotnetAssigment1\obj\Debug\net6.0\DotnetAssigment1.AssemblyInfoInputs.cache
+F:\Projects\DotnetAssigment1\obj\Debug\net6.0\DotnetAssigment1.AssemblyInfo.cs
+F:\Projects\DotnetAssigment1\obj\Debug\net6.0\DotnetAssigment1.csproj.CoreCompileInputs.cache
+F:\Projects\DotnetAssigment1\obj\Debug\net6.0\DotnetAssigment1.dll
+F:\Projects\DotnetAssigment1\obj\Debug\net6.0\refint\DotnetAssigment1.dll
+F:\Projects\DotnetAssigment1\obj\Debug\net6.0\DotnetAssigment1.pdb
+F:\Projects\DotnetAssigment1\obj\Debug\net6.0\DotnetAssigment1.genruntimeconfig.cache
+F:\Projects\DotnetAssigment1\obj\Debug\net6.0\ref\DotnetAssigment1.dll

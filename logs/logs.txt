@@ -1,0 +1,5 @@
+Program start time: 15:05:04 PM
+Program total execution time: 00:03:49.78
+Program end time: 15:08:54 PM
+Number of skipped rows: 81832
+Number of success rows: 214175
