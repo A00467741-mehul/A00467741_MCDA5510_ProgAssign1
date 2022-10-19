@@ -7,7 +7,7 @@ public class Program
 {
     public static void Main()
     {
-        string outFilePath = @"..\\..\\..\\Output\\Output.txt";
+        string outFilePath = @"..\\..\\..\\Output\\Output.csv";
         string exceptionAndSummary = @"..\\..\\..\\logs\\logs.txt";
         try
         {

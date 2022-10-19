@@ -6,7 +6,7 @@ namespace ProgAssign1
     {
         public List<int> parse(string fileName, List<int> countLines)
         {
-            string outFilePath = @"..\\..\\..\\Output\\Output.txt";
+            string outFilePath = @"..\\..\\..\\Output\\Output.csv";
             int skipRowCounter = 0;
             int acceptRowcounter = 0;
             try
