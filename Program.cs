@@ -30,8 +30,8 @@ public class Program
                                     ts.Hours, ts.Minutes, ts.Seconds,
                                     ts.Milliseconds / 10);
 
-            Console.WriteLine("Program execution end..");
-            Console.WriteLine("Here is the summary of the program:");
+            Console.WriteLine("Program execution ended..");
+            Console.WriteLine("Please check the summary of the executed program in the logs.txt file in logs folder!");
             using (StreamWriter writerSummary = new StreamWriter(exceptionAndSummary))
             {
                 writerSummary.WriteLine("Program start time: " + start.ToString("HH:mm:ss tt"));
